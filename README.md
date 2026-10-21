@@ -1,7 +1,5 @@
 # Virtual-screening-suite (VS-Suite)
-VS-Suite, an In-house, integrated virtual screening pipeline that orchestrates three consensus docking approaches (1) Boltz-2, co-folding model (2) AutoDock Vina, empirical scoring function; and (3) GNINA, which augments Vina-style docking with  CNN rescoring within a automated workflow accessible through a browser-based GUI.
----
-VS-Suite integrates three independent molecular docking methods into one pipeline with a browser-based GUI:
+VS-Suite, an In-house, integrated virtual screening pipeline that orchestrates three consensus docking approaches (1) Boltz-2, co-folding model (2) AutoDock Vina, empirical scoring function; and (3) GNINA, which augments Vina-style docking with  CNN rescoring within a automated workflow accessible through a browser-based GUI. VS-Suite integrates three independent molecular docking methods into one pipeline with a browser-based GUI:
 
 | Tool | Role |
 |------|------|
