@@ -11,7 +11,7 @@ VS-Suite, an In-house, integrated virtual screening pipeline that orchestrates t
 
 ##  Key Features
 
-- **One command** - protein FASTA + ligands CSV → complete docking results
+- **Input** - protein FASTA + ligands CSV → complete docking results
 - **Browser GUI** - upload files, click Run, view results without command line
 - **Cross-tool consensus ranking** - ranks hits by agreement across all 3 tools
 - **Bulk downloads** - top-10 (all poses) and top-20 (best pose per tool) as ZIP
