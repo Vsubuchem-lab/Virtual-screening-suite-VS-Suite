@@ -27,7 +27,7 @@ VS-Suite integrates three independent molecular docking methods into one pipelin
 ```bash
 # 1. Clone
 git clone https://github.com/Vsubuchem-lab/Virtual-screening-suite-VS-Suite.git
-cd VS-Suite-GUI-Wrapper
+cd Virtual-screening-suite-VS-Suite-main
 
 # 2. Install (one-time ~30 min)
 bash install.sh
