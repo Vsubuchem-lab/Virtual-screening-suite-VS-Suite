@@ -72,7 +72,7 @@ conda --version    # confirm
 
 ```bash
 git clone https://github.com/Vsubuchem-lab/Virtual-screening-suite-VS-Suite.git
-cd VS-Suite-GUI-Wrapper
+cd Virtual-screening-suite-VS-Suite-main
 ```
 
 ---
@@ -122,7 +122,7 @@ gnina --version    # confirm
 ### Step 6 — Verify Everything Works
 
 ```bash
-cd ~/path/to/VS-Suite-GUI-Wrapper
+cd ~/path/to/Virtual-screening-suite-VS-Suite-main
 conda activate autodock-main
 python tests/test_phase1.py
 ```
