@@ -126,3 +126,4 @@ cd ~/path/to/Virtual-screening-suite-VS-Suite-main
 conda activate autodock-main
 python tests/test_phase1.py
 ```
+### For more information contact us 
