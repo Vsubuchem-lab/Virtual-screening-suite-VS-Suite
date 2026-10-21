@@ -1,4 +1,4 @@
-# Virtual-screening-suite-VS-Suite-
+# Virtual-screening-suite (VS-Suite)
 VS-Suite, an In-house, integrated virtual screening pipeline that orchestrates three consensus docking approaches (1) Boltz-2, co-folding model (2) AutoDock Vina, empirical scoring function; and (3) GNINA, which augments Vina-style docking with  CNN rescoring within a automated workflow accessible through a browser-based GUI
 VS-Suite integrates three independent molecular docking methods into one pipeline with a browser-based GUI:
 
@@ -10,23 +10,23 @@ VS-Suite integrates three independent molecular docking methods into one pipelin
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-- **One command** — protein FASTA + ligands CSV → complete docking results
-- **Browser GUI** — upload files, click Run, view results without command line
-- **Cross-tool consensus ranking** — ranks hits by agreement across all 3 tools
-- **Bulk downloads** — top-10 (all poses) and top-20 (best pose per tool) as ZIP
-- **MD-ready outputs** — SDF poses ready for GROMACS/AMBER parameterization
-- **2D interaction analysis** — protein-ligand interactions via PLIP
-- **Validated** — tested on 58 antiviral compounds against SARS-CoV-2 Mpro
+- **One command** - protein FASTA + ligands CSV → complete docking results
+- **Browser GUI** - upload files, click Run, view results without command line
+- **Cross-tool consensus ranking** - ranks hits by agreement across all 3 tools
+- **Bulk downloads** - top-10 (all poses) and top-20 (best pose per tool) as ZIP
+- **MD-ready outputs** - SDF poses ready for GROMACS/AMBER parameterization
+- **2D interaction analysis** - protein-ligand interactions via PLIP
+- **Validated** - tested on 58 antiviral compounds against SARS-CoV-2 Mpro
 
 ---
 
-## 🚀 Quick Start
+## Let's Start
 
 ```bash
 # 1. Clone
-git clone https://github.com/Purohith24/VS-Suite-GUI-Wrapper.git
+git clone https://github.com/Vsubuchem-lab/Virtual-screening-suite-VS-Suite.git
 cd VS-Suite-GUI-Wrapper
 
 # 2. Install (one-time ~30 min)
@@ -40,7 +40,7 @@ streamlit run gui/VS_GUI.py
 
 ---
 
-## 📦 Installation — Full Guide
+## Installation — Full Guide
 
 ### Requirements
 
@@ -72,7 +72,7 @@ conda --version    # confirm
 ### Step 2 — Clone VS-Suite
 
 ```bash
-git clone https://github.com/Purohith24/VS-Suite-GUI-Wrapper.git
+git clone https://github.com/Vsubuchem-lab/Virtual-screening-suite-VS-Suite.git
 cd VS-Suite-GUI-Wrapper
 ```
 
